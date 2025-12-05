@@ -109,10 +109,12 @@ I blend **technical expertise**, **leadership**, and **customer empathy** to del
   <a href="https://www.linkedin.com/in/your-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
+  
+  <a href="https://github.com/ravikumarcommits?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-%23323330.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
