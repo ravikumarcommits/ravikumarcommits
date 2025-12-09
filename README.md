@@ -106,7 +106,7 @@ I blend **technical expertise**, **leadership**, and **customer empathy** to del
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/ravi-kumar-agarwal-ms-mba-562a58102">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
